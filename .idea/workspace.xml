@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="892598cb-a201-4e6b-b1e2-67cb64827d0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tZlTvKEDEXCOmgctTyQOIZqXKh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sriram.kafka" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tutorial" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WordCountApp">
+    <configuration name="KafkaConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sriram.kafka.KafkaConsumerDemo" />
+      <module name="kafka-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sriram.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaConsumerDemoGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sriram.kafka.KafkaConsumerDemoGroups" />
+      <module name="kafka-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sriram.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sriram.kafka.KafkaDemo" />
+      <module name="kafka-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sriram.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaDemoWithCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sriram.kafka.KafkaDemoWithCallback" />
+      <module name="kafka-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sriram.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sriram.kafka.WordCountApp" />
+      <module name="kafka-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sriram.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCountApp" />
+        <item itemvalue="Application.KafkaDemoWithCallback" />
+        <item itemvalue="Application.KafkaConsumerDemoGroups" />
+        <item itemvalue="Application.KafkaConsumerDemo" />
+        <item itemvalue="Application.KafkaDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="892598cb-a201-4e6b-b1e2-67cb64827d0c" name="Default Changelist" comment="" />
+      <created>1622984503587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622984503587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="85" key="#Project_Structure" timestamp="1622984711770">
+      <screen x="0" y="25" width="1920" height="957" />
+    </state>
+    <state x="460" y="85" key="#Project_Structure/0.25.1920.957@0.25.1920.957" timestamp="1622984711770" />
+    <state x="794" y="156" key="#xdebugger.evaluate" timestamp="1622988217404">
+      <screen x="0" y="25" width="1920" height="957" />
+    </state>
+    <state x="794" y="156" key="#xdebugger.evaluate/0.25.1920.957@0.25.1920.957" timestamp="1622988217404" />
+    <state width="1628" height="283" key="GridCell.Tab.0.bottom" timestamp="1623347729905">
+      <screen x="0" y="25" width="1680" height="923" />
+    </state>
+    <state width="1628" height="283" key="GridCell.Tab.0.bottom/0.25.1680.923@0.25.1680.923" timestamp="1623347729905" />
+    <state width="1628" height="232" key="GridCell.Tab.0.bottom/0.25.1680.930@0.25.1680.930" timestamp="1623001579289" />
+    <state width="1628" height="248" key="GridCell.Tab.0.bottom/0.25.1680.951@0.25.1680.951" timestamp="1623344673559" />
+    <state width="1868" height="232" key="GridCell.Tab.0.bottom/0.25.1920.957@0.25.1920.957" timestamp="1622992218670" />
+    <state width="1868" height="248" key="GridCell.Tab.0.bottom/0.25.1920.973@0.25.1920.973" timestamp="1623336808986" />
+    <state width="1868" height="248" key="GridCell.Tab.0.bottom/0.25.1920.975@0.25.1920.975" timestamp="1623336431694" />
+    <state width="1628" height="283" key="GridCell.Tab.0.center" timestamp="1623347729905">
+      <screen x="0" y="25" width="1680" height="923" />
+    </state>
+    <state width="1628" height="283" key="GridCell.Tab.0.center/0.25.1680.923@0.25.1680.923" timestamp="1623347729905" />
+    <state width="1628" height="232" key="GridCell.Tab.0.center/0.25.1680.930@0.25.1680.930" timestamp="1623001579283" />
+    <state width="1628" height="248" key="GridCell.Tab.0.center/0.25.1680.951@0.25.1680.951" timestamp="1623344673558" />
+    <state width="1868" height="232" key="GridCell.Tab.0.center/0.25.1920.957@0.25.1920.957" timestamp="1622992218669" />
+    <state width="1868" height="248" key="GridCell.Tab.0.center/0.25.1920.973@0.25.1920.973" timestamp="1623336808985" />
+    <state width="1868" height="248" key="GridCell.Tab.0.center/0.25.1920.975@0.25.1920.975" timestamp="1623336431691" />
+    <state width="1628" height="283" key="GridCell.Tab.0.left" timestamp="1623347729904">
+      <screen x="0" y="25" width="1680" height="923" />
+    </state>
+    <state width="1628" height="283" key="GridCell.Tab.0.left/0.25.1680.923@0.25.1680.923" timestamp="1623347729904" />
+    <state width="1628" height="232" key="GridCell.Tab.0.left/0.25.1680.930@0.25.1680.930" timestamp="1623001579281" />
+    <state width="1628" height="248" key="GridCell.Tab.0.left/0.25.1680.951@0.25.1680.951" timestamp="1623344673557" />
+    <state width="1868" height="232" key="GridCell.Tab.0.left/0.25.1920.957@0.25.1920.957" timestamp="1622992218668" />
+    <state width="1868" height="248" key="GridCell.Tab.0.left/0.25.1920.973@0.25.1920.973" timestamp="1623336808985" />
+    <state width="1868" height="248" key="GridCell.Tab.0.left/0.25.1920.975@0.25.1920.975" timestamp="1623336431690" />
+    <state width="1628" height="283" key="GridCell.Tab.0.right" timestamp="1623347729905">
+      <screen x="0" y="25" width="1680" height="923" />
+    </state>
+    <state width="1628" height="283" key="GridCell.Tab.0.right/0.25.1680.923@0.25.1680.923" timestamp="1623347729905" />
+    <state width="1628" height="232" key="GridCell.Tab.0.right/0.25.1680.930@0.25.1680.930" timestamp="1623001579287" />
+    <state width="1628" height="248" key="GridCell.Tab.0.right/0.25.1680.951@0.25.1680.951" timestamp="1623344673558" />
+    <state width="1868" height="232" key="GridCell.Tab.0.right/0.25.1920.957@0.25.1920.957" timestamp="1622992218669" />
+    <state width="1868" height="248" key="GridCell.Tab.0.right/0.25.1920.973@0.25.1920.973" timestamp="1623336808986" />
+    <state width="1868" height="248" key="GridCell.Tab.0.right/0.25.1920.975@0.25.1920.975" timestamp="1623336431693" />
+    <state width="1628" height="283" key="GridCell.Tab.1.bottom" timestamp="1623347729907">
+      <screen x="0" y="25" width="1680" height="923" />
+    </state>
+    <state width="1628" height="283" key="GridCell.Tab.1.bottom/0.25.1680.923@0.25.1680.923" timestamp="1623347729907" />
+    <state width="1628" height="283" key="GridCell.Tab.1.bottom/0.25.1680.951@0.25.1680.951" timestamp="1623341639641" />
+    <state width="1868" height="289" key="GridCell.Tab.1.bottom/0.25.1920.957@0.25.1920.957" timestamp="1622988249122" />
+    <state width="1628" height="283" key="GridCell.Tab.1.center" timestamp="1623347729906">
+      <screen x="0" y="25" width="1680" height="923" />
+    </state>
+    <state width="1628" height="283" key="GridCell.Tab.1.center/0.25.1680.923@0.25.1680.923" timestamp="1623347729906" />
+    <state width="1628" height="283" key="GridCell.Tab.1.center/0.25.1680.951@0.25.1680.951" timestamp="1623341639641" />
+    <state width="1868" height="289" key="GridCell.Tab.1.center/0.25.1920.957@0.25.1920.957" timestamp="1622988249121" />
+    <state width="1628" height="283" key="GridCell.Tab.1.left" timestamp="1623347729906">
+      <screen x="0" y="25" width="1680" height="923" />
+    </state>
+    <state width="1628" height="283" key="GridCell.Tab.1.left/0.25.1680.923@0.25.1680.923" timestamp="1623347729906" />
+    <state width="1628" height="283" key="GridCell.Tab.1.left/0.25.1680.951@0.25.1680.951" timestamp="1623341639640" />
+    <state width="1868" height="289" key="GridCell.Tab.1.left/0.25.1920.957@0.25.1920.957" timestamp="1622988249120" />
+    <state width="1628" height="283" key="GridCell.Tab.1.right" timestamp="1623347729906">
+      <screen x="0" y="25" width="1680" height="923" />
+    </state>
+    <state width="1628" height="283" key="GridCell.Tab.1.right/0.25.1680.923@0.25.1680.923" timestamp="1623347729906" />
+    <state width="1628" height="283" key="GridCell.Tab.1.right/0.25.1680.951@0.25.1680.951" timestamp="1623341639641" />
+    <state width="1868" height="289" key="GridCell.Tab.1.right/0.25.1920.957@0.25.1920.957" timestamp="1622988249121" />
+    <state x="385" y="82" key="Maven.ArtifactSearchDialog" timestamp="1622987695493">
+      <screen x="0" y="25" width="1920" height="957" />
+    </state>
+    <state x="385" y="82" key="Maven.ArtifactSearchDialog/0.25.1920.957@0.25.1920.957" timestamp="1622987695493" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sriram/kafka/KafkaDemoWithCallback.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sriram/kafka/WordCountApp.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
